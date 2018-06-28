@@ -20,6 +20,11 @@ h1 {
   padding: 5px;
 }
 
+h3 {
+  color: blue;
+  text-transform: uppercase; 
+}
+
 .section-title {
   text-transform: uppercase;
 }
