@@ -1,7 +1,8 @@
 body {
   font-family: "arial";
+  background-image: url("images/blue-background.jpg");
 }
-  
+
 .main-image {
   border: solid 4px black;
   border-radius: 50%;
