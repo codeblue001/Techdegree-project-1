@@ -1,6 +1,13 @@
 body {
   font-family: "arial";
-  background-image: url("images/blue-background.jpg");
+  background: url('images/blue-background.jpg') no-repeat top center ;
+  text-align: center;
+}
+
+.main-content {
+  color: yellow;
+  font-weight: 900;
+  font-size: 16px;
 }
 
 .main-image {

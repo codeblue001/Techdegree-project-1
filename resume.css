@@ -1,11 +1,29 @@
 body {
   font-family: "arial";
+  background: url('images/blue-background.jpg') no-repeat top center ;
+  text-align: center;
 }
-  
+
+.border {
+  border-bottom: 4px solid #ccc;
+  border-radius: 6px;
+}
+
+.main-content {
+  color: yellow;
+  font-weight: 1000;
+  font-size: 16px;
+  display: inline-block;
+}
+
 .main-image {
   border: solid 4px black;
   border-radius: 50%;
 }
+
+.myList {
+  list-style-type: none;
+  }
 
 h1 {
   Background-color: #e2e2e2;
